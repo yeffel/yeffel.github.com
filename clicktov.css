@@ -4,7 +4,7 @@
 }
 
 body {
-  background: url(http://defunkt.github.com/ambition/static/bg.png) repeat;
+  background: url(bg.png) repeat;
   color: #333;
   font-family: serif;
 }
@@ -99,7 +99,7 @@ pre {
 
 #footer {
   font-family: helvetica;
-  font-size:0.9em;
+  font-size:0.3em;
   border-top: 1px solid #aaa;
   background: #eee;
   padding: 10px;
